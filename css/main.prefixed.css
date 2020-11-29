@@ -1,0 +1,15 @@
+*::before,
+*::after {
+    box-sizing: border-box;
+
+}
+
+body {
+    width: 400px;
+    font-family: 'Castoro', serif;
+    margin: auto;
+}
+
+.content {
+    font-size: 21px;
+}
